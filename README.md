@@ -19,7 +19,7 @@
 
 1. new Project를 선택
 
-<img src="http://localhost:8888/files/jjnn/ds/img/project_setting.PNG" alt="Drawing" style="width: 800px;"/>
+<img src="ds/img/project_setting.PNG" alt="Drawing" style="width: 800px;"/>
 2. `Sorce Connection*` 옆에 `ADD Connection` 클릭 -> 경로는 라벨링할 비디오가 있는 폴더로 설정!
 
 
