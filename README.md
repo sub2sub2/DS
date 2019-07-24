@@ -36,7 +36,7 @@
 <img src="https://github.com/lucky4964/DS/blob/master/img/final_screen.PNG?raw=true" alt="Drawing" style="width: 1000px;"/>
 
 7. 왼쪽 아이콘에 `Export`클릭해서 `Export Setting`을 다음과 같이 설정합니다. (Include Images에도 체크)
-<img src="" alt="Drawing" style="width: 1000px;"/>
+<img src="https://github.com/lucky4964/DS/blob/master/img/export_setting.PNG?raw=true" alt="Drawing" style="width: 1000px;"/>
 
 8. 오른쪽 목록에 자신이 만든 프로젝트 선택
 
