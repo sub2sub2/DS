@@ -35,7 +35,10 @@
 
 <img src="https://github.com/lucky4964/DS/blob/master/img/final_screen.PNG?raw=true" alt="Drawing" style="width: 1000px;"/>
 
-7. 오른쪽 목록에 자신이 만든 프로젝트 선택
+7. 왼쪽 아이콘에 `Export`클릭해서 `Export Setting`을 다음과 같이 설정합니다. (Include Images에도 체크)
+<img src="" alt="Drawing" style="width: 1000px;"/>
+
+8. 오른쪽 목록에 자신이 만든 프로젝트 선택
 
 
 ## Labeling! (like a machine)
@@ -80,6 +83,11 @@ reference: https://github.com/microsoft/VoTT#keyboard-shortcuts
 보시면 박스하나에 여려개의 라벨링을 달아줄수 있습니다. 다음과 같이 골들어갈때 goal과 ball 두개의 라벨을 달아줍니다.
 <img src="https://github.com/lucky4964/DS/blob/master/img/ex2.PNG?raw=true" alt="Drawing" style="width: 1000px;"/>
 <img src="https://github.com/lucky4964/DS/blob/master/img/ex2.1.PNG?raw=true" alt="Drawing" style="width: 1000px;"/>
+
+## Export 
+- 상단 도구모음 가장 오른쪽에 `Export Project`가 있습니다. 누르고 팝업메시지가 초록색 Success 메시지로 바뀌면 정상적으로 export 된것입니다.
+- `Save Export`도 잊지말아주시길
+- 제대로 xport가 되었다면 프로젝트가 있는 디렉토리에 들어가면 `vott-csv-export` 폴더가 생성되고, 그 안에 txt파일 한개와 이미지파일들이 저장되어 있을 것입니다.
 
 그럼 저는 20000<br>
 모두 Shak'it! Shak'it! DreamShake!!!!
